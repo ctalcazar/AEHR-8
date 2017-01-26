@@ -97,7 +97,9 @@
 	<false/>
 	</gap:config-file>
 	<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance">
-	<true/> 
+	<true/>
+	</gap:config-file>
+  </platform> 
   
   <platform name="wp8">
     <icon src="www/res/icon/wp8/ApplicationIcon.png" platform="wp8" width="99" height="99"/>
