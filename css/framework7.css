@@ -4049,7 +4049,7 @@ html.with-statusbar-overlay body .panel {
   padding-top: 20px;
 }
 .statusbar-overlay {
-  background: #0073c3;
+  background: #c6dffe;
   z-index: 10000;
   position: absolute;
   left: 0;
